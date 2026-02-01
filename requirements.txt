@@ -1,0 +1,6 @@
+streamlit
+qrcode
+Pillow
+pyzbar
+streamlit-option-menu
+pycryptodome
